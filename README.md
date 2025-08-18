@@ -14,11 +14,10 @@ This Tableau dashboard analyzes customer reviews of British Airways from 2016 to
 - Line chart for rating trends over time
 - Aircraft-wise comparison
 - Multi-level filters and tooltips
-- Hinglish explanation for better accessibility
 
 
 # Live Dashboard
-View on Tableau Public ..https://public.tableau.com/app/profile/shrutika.mane
+View on Tableau Public ..[https://public.tableau.com/app/profile/shrutika.mane](https://public.tableau.com/app/profile/shrutika.mane)
 
 # About Me
 I’m Shrutika Mane, a BSc IT graduate passionate about data analytics and visualization. I enjoy creating real-world dashboards with clear storytelling.
